@@ -2,18 +2,18 @@
     "name": "ramonztro/simple-upload-handler",
     "type": "library",
     "description": "SimpleUploadHandler wraps up file uploading processes.",
-    "homepage": "https://github.com/ramonztro/simple-upload-handler/",
+    "homepage": "https://github.com/ramokcom/simple-upload-handler/",
     "license": "MIT",
     "authors": [
         {
             "name": "Ramon Kayo",
-            "email": "contato@ramonkayo.com",
-            "homepage": "http://ramonkayo.com"
+            "email": "contato@ramonk.com",
+            "homepage": "http://ramonk.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Ramonztro\\SimpleUploadHandler\\": "src/"
+            "RamonK\\SimpleUploadHandler\\": "src/"
         }
     }
 }

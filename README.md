@@ -17,7 +17,7 @@ $ composer require ramonztro/simple-upload-handler
 ```php
 <?php
 
-use Ramonztro\SimpleUploadHandler\SimpleUploadHandler;
+use RamonK\SimpleUploadHandler\SimpleUploadHandler;
 
 //Creates a SimpleUploadHandler
 $handler = new SimpleUploadHandler();
